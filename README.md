@@ -19,7 +19,6 @@ Welcome to my digital lab! I’m currently focused on offensive security, networ
 
 ---
 
-### 🕹️ Beyond the Terminal
 ### 🕹️ [SYSTEM_STATUS]: Gaming & Leisure
 | Activity | Status / Title | Platform |
 | :--- | :--- | :--- |
@@ -38,4 +37,4 @@ Welcome to my digital lab! I’m currently focused on offensive security, networ
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eliana-guerra-9700b5327)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/seawe3d_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME))
