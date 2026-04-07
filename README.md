@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=150&lines=Hello%2C+I'm+Eliana Guerra;Cybersecurity+Student;Gamer+;Reader" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=150&lines=Hello%2C+I'm+Eliana+Guerra;Cybersecurity+Student;Silly+guy+;Reader" alt="Typing SVG" /></p>
 
 ### 🛡️ Cybersecurity Student & Tech Enthusiast
 
