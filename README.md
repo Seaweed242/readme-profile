@@ -23,8 +23,8 @@ Welcome to my digital lab! I’m currently focused on offensive security, networ
 ### 🕹️ [SYSTEM_STATUS]: Gaming & Leisure
 | Activity | Status / Title | Platform |
 | :--- | :--- | :--- |
-| 🎮 **Currently Playing** | ![Playing](https://img.shields.io/badge/HELD_DIVERS_2-%23FFD700?style=flat-square&logo=steam&logoColor=white) | `PC / Steam` |
-| 📚 **Currently Reading** | ![Reading](https://img.shields.io/badge/NEUROMANCER-%2300FFCC?style=flat-square&logo=gitbook&logoColor=white) | `Dungeon Crawler Carl` |
+| 🎮 **Currently Playing** | ![Playing](https://img.shields.io/badge/RISK_OF_RAIN_2-%23FFCC00?style=for-the-badge&logo=steam&logoColor=black) | `PC / Steam` |
+| 📚 **Currently Reading** | ![Reading](https://img.shields.io/badge/DUNGEON_CRAWLER_CARL-%23E31837?style=for-the-badge&logo=bookstack&logoColor=white) | `paperback` |
   
 ---
 
