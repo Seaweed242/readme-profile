@@ -20,13 +20,11 @@ Welcome to my digital lab! I’m currently focused on offensive security, networ
 ---
 
 ### 🕹️ Beyond the Terminal
-| Currently Playing | Currently Reading | Favorite Genre |
+### 🕹️ [SYSTEM_STATUS]: Gaming & Leisure
+| Activity | Status / Title | Platform |
 | :--- | :--- | :--- |
-| [Game Title] | [Book Title] | Sci-Fi / Cyberpunk |
-
-<a href="https://steamcommunity.com/profiles/76561199465772828">
-  <img src="https://steam-current-game.vercel.app/api/?steamids=76561199465772828" alt="Steam Status" />
-</a>
+| 🎮 **Currently Playing** | ![Playing](https://img.shields.io/badge/HELD_DIVERS_2-%23FFD700?style=flat-square&logo=steam&logoColor=white) | `PC / Steam` |
+| 📚 **Currently Reading** | ![Reading](https://img.shields.io/badge/NEUROMANCER-%2300FFCC?style=flat-square&logo=gitbook&logoColor=white) | `Dungeon Crawler Carl` |
   
 ---
 
