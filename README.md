@@ -24,7 +24,7 @@ Welcome to my digital lab! I’m currently focused on offensive security, networ
 | :--- | :--- | :--- |
 | [Game Title] | [Book Title] | Sci-Fi / Cyberpunk |
 
-![Steam Metrics](https://metrics.lecoq.io/Seaweed242?template=classic&base=0&plugin_steam=1&plugin_steam_user=76561199465772828&plugin_steam_sections=recently-played%2C+most-played&plugin_steam_games_limit=3&config_timezone=UTC)
+![Steam Metrics](https://metrics.lecoq.io/Seaweed242?template=classic&base=0&plugin_steam=1&plugin_steam_user=76561199465772828&plugin_steam_sections=recently-played%2C+most-played&plugin_steam_games_limit=3&config_timezone=CTZ)
 ---
 
 ### 📊 My GitHub Journey
