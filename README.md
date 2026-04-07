@@ -24,6 +24,7 @@ Welcome to my digital lab! I’m currently focused on offensive security, networ
 | :--- | :--- | :--- |
 | [Game Title] | [Book Title] | Sci-Fi / Cyberpunk |
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seaweed242&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ### 📊 My GitHub Journey
