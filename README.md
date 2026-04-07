@@ -1,4 +1,4 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=200&section=header&text=Hello,%20I'm%20[YourName]&fontSize=70" />
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=150&lines=Hello%2C+I'm+Eliana Guerra" alt="Typing SVG" /></p>
 
 ### 🛡️ Cybersecurity Student & Tech Enthusiast
 
