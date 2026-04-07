@@ -37,4 +37,4 @@ Welcome to my digital lab! I’m currently focused on offensive security, networ
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eliana-guerra-9700b5327)
-[![Instagram](https://img.shields.io/badge/Instagram-%2300FF00.svg?style=for-the-badge&logo=Instagram&logoColor=black)](https://instagram.com/drunk._.pancake)
+[![Instagram](https://img.shields.io/badge/Instagram-%23121011.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/drunk._.pancake)
