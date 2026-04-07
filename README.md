@@ -1,4 +1,5 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=150&lines=Hello%2C+I'm+[Eliana Guerra!];Cybersecurity+Student;sillyguy+;Reader" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=150&lines=Hello%2C+I'm+[YourName];Cybersecurity+Student;Gamer+;Reader" alt="Typing SVG" /></p>
+
 ### 🛡️ Cybersecurity Student & Tech Enthusiast
 
 Welcome to my digital lab! I’m currently focused on offensive security, network defense, and building tools in Python. When I'm not auditing code or setting up virtual environments, you'll find me exploring digital worlds or getting lost in a good book.
