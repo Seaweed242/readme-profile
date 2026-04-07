@@ -1,5 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=150&lines=Hello%2C+I'm+Eliana Guerra!;Cybersecurity+Student;silly+guy" alt="Typing SVG" /></p>
-
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=150&lines=Hello%2C+I'm+[Eliana Guerra!];Cybersecurity+Student;silly+guy+;Reader" alt="Typing SVG" /></p>
 ### 🛡️ Cybersecurity Student & Tech Enthusiast
 
 Welcome to my digital lab! I’m currently focused on offensive security, network defense, and building tools in Python. When I'm not auditing code or setting up virtual environments, you'll find me exploring digital worlds or getting lost in a good book.
@@ -28,12 +27,12 @@ Welcome to my digital lab! I’m currently focused on offensive security, networ
 
 ### 📊 My GitHub Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seaweed242&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seaweed242&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eliana-guerra-9700b5327)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/seawe3d_/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/seawe3d_)
