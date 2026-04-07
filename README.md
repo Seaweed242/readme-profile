@@ -27,14 +27,6 @@ Welcome to my digital lab! I’m currently focused on offensive security, networ
   
 ---
 
-### 📊 My GitHub Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seaweed242&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seaweed242&layout=compact&theme=tokyonight" alt="Languages" />
-</p>
-
----
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eliana-guerra-9700b5327)
 [![Instagram](https://img.shields.io/badge/Instagram-%23121011.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/drunk._.pancake)
